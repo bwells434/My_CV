@@ -1,1 +1,1 @@
-My_CV
+Hi, This is repository for my resumes. It includes the markdown source file and pdf output. You may take a look or modify it to create your own.
