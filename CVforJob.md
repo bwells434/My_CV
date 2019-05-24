@@ -1,12 +1,11 @@
 @import "CV.css"
+
 Jiawei Gu
 ============
-Linkedin:   https://www.linkedin.com/in/jiawei-gu/ <br/>
-GitHub:    https://github.com/jiawku <br/>
-Email:     jiawku17@gmail.com <br/>
-(469)-412-­4376
-Dallas, TX
+LinkedIn:   https://www.linkedin.com/in/jiawei-gu/ | GitHub: https://github.com/jiawku
+Cell: (801)-637-­4021 | Email:     jiawku17@gmail.com | Salt Lake City, UT
 --- ---
+
 Education
 ---------
 
@@ -42,7 +41,7 @@ Relevant Coursework
 Proficient Skills
 --------
 
-Computer languages
+Programming languages
 :   Python, Java, JavaScript, C++, R, SAS, SQL, PHP, Bash
 
 Big data framework
@@ -54,13 +53,38 @@ Web stack
 Deep Learning Framework
 :   TensorFlow, Keras
 
+Containerization
+: Docker, Kubernetes
+
+Bioinformatic Platform
+: Illumina BaseSpace, Illumina Clarity LIMS, SeraCare IQ, Philips IntelliSpace Genomics Medicine
+
+Cloud Service
+: Amazon AWS, SalesForce
+
+
 Certifications
 :   [SAS Certified Base & Advanced Programmer for SAS 9](https://www.youracclaim.com/badges/29649285-43db-4ca4-89c6-5e325a059829/public_url)
 :   [edX Verified Certificate for Big Data Analysis with Apache Spark](https://courses.edx.org/certificates/user/10309856/course/course-v1:BerkeleyX+CS110x+2T2016)
 :   [Coursera Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/5VL96NJ4AGXJ)
 
-Experience
+Work Experience
 ----------
+**Bioinformatic Analyst, Navcian Genomics, Inc. Salt Lake City, 05/2018-Present**
+I work corporately with Lab Operation Team, Variant Scientist Team, DevOps Team and R&D team in Navcian Genomics. My job most consisted of three parts:
+ * ***Production & Automation***
+    * Daily clinical control sequencing quality assurance.
+    * Involved in design and implementation of the **Tumor Mutation Burden(TMB)** calculation algorithm.
+    * Build a **automatic pipeline** for clinical control assurance in **python**. It connected multiple **cloud Service** platforms(Philips IntelliSpace Genomics Medicine, SalesForce, SeraCare IQ, Slack and Amazon AWS SQS) via **API**.
+    * Containerized a sequencing quality control script in **Docker**, and create a warper of it to make a **Illumina BaseSpace Native APP**.  
+ * ***Data Engineering***
+    * Created tools to query data from **cloud platforms** (Philips IntelliSpace Genomics Medicine, SalesForce, Clarity LIMS) via **API** for ETL and R&D.
+    * Designed a Bioinformatic **Variant Database** to store clinical mutations.
+ * ***Data Analysis***
+    * Designed statistical tests on Lab operation quality metrics.
+    * Implemented and run validation workflows for Lab operation and R&D.
+
+
 **Research Assistant, Biology Department, UTD 	01/2014-12/2016**
  * Machine Learning Prediction for RNA-chromosome interaction, UTD
     * Wrote a **Bash script** to collect genomic and epigenomic data from **online resources**
