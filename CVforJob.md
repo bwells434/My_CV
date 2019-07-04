@@ -15,6 +15,41 @@ Education
 08/2013-12/2016
 : **MS, Bioinformatic**; University of Texas at Dallas(UTD); **3.73/4**
 
+Work Experience
+----------
+**Bioinformatic Analyst, Navcian Genomics, Inc. Salt Lake City, 08/2018-Present**
+
+I work corporately with Lab Operation Team, Variant Scientist Team, DevOps Team and R&D team in Navcian Genomics. My job mostly consisted of three parts:
+ * ***Production & Automation***
+    * Daily clinical control sequencing quality assurance.
+    * Involved in design and implementation of the **Tumor Mutation Burden(TMB)** calculation algorithm.
+    * Build a **automatic pipeline** for clinical control assurance in **python**. It connected multiple **cloud service platforms**(Philips IntelliSpace Genomics Medicine, SalesForce, SeraCare IQ, Slack and Amazon AWS) via **API**.
+    * Containerized a sequencing quality control script in **Docker**, and create a warper of it to make a **Illumina BaseSpace Native APP**.  
+ * ***Data Engineering***
+    * Created tools to query and clean data from **cloud service platforms** (Philips IntelliSpace Genomics Medicine, SalesForce, Clarity LIMS) via **API** for ETL and R&D.
+    * Designed a Bioinformatic **Variant Database** to store clinical mutations.
+ * ***Data Analysis***
+    * Implemented and run validation workflows for Lab operation and R&D.
+    * Designed statistical tests on Lab operation quality metrics.
+    * Other case specific data analysis requests.
+
+
+**Research Assistant, Biology Department, UTD 	01/2014-12/2016**
+ * Machine Learning Prediction for RNA-chromosome interaction, UTD
+    * Wrote a **Bash script** to collect genomic and epigenomic data from **online resources**
+    *	Built a pipeline in Bash and python to preprocess collected data
+    *	Coded a **Random shuffle** program to generate negative training data set
+    *	Applied **SVM**(support vector machine) on collected data set to generate a model
+* DNA Sequencing Analysis of Brg1 in Cancer Cell, UTD
+    *	Built pipelines for data process and ChIP-seq analysis using Linux bash shell
+    *	Implemented a protein binding motif scan and enrichment analysis program in R
+    *	Analyzed and Visualized data in **R** and **Python**
+    * **Article publication**: [Shi, X., et al. "SMARCA4/Brg1 coordinates genetic and epigenetic networks underlying Shh-type medulloblastoma development." Oncogene (2016)](https://www.nature.com/articles/onc2016108).
+
+**Teaching Assistant, Biology Department, UTD 	01/2014-12/2016**
+  *	Assisted instructors to organize student experiment and lecture
+  *	Communicated with students to help them understand materials and answered their questions
+
 
 Relevant Coursework
 ----------------
@@ -68,38 +103,6 @@ Certifications
 :   [edX Verified Certificate for Big Data Analysis with Apache Spark](https://courses.edx.org/certificates/user/10309856/course/course-v1:BerkeleyX+CS110x+2T2016)
 :   [Coursera Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/5VL96NJ4AGXJ)
 
-Work Experience
-----------
-**Bioinformatic Analyst, Navcian Genomics, Inc. Salt Lake City, 05/2018-Present**
-I work corporately with Lab Operation Team, Variant Scientist Team, DevOps Team and R&D team in Navcian Genomics. My job most consisted of three parts:
- * ***Production & Automation***
-    * Daily clinical control sequencing quality assurance.
-    * Involved in design and implementation of the **Tumor Mutation Burden(TMB)** calculation algorithm.
-    * Build a **automatic pipeline** for clinical control assurance in **python**. It connected multiple **cloud Service** platforms(Philips IntelliSpace Genomics Medicine, SalesForce, SeraCare IQ, Slack and Amazon AWS SQS) via **API**.
-    * Containerized a sequencing quality control script in **Docker**, and create a warper of it to make a **Illumina BaseSpace Native APP**.  
- * ***Data Engineering***
-    * Created tools to query data from **cloud platforms** (Philips IntelliSpace Genomics Medicine, SalesForce, Clarity LIMS) via **API** for ETL and R&D.
-    * Designed a Bioinformatic **Variant Database** to store clinical mutations.
- * ***Data Analysis***
-    * Designed statistical tests on Lab operation quality metrics.
-    * Implemented and run validation workflows for Lab operation and R&D.
-
-
-**Research Assistant, Biology Department, UTD 	01/2014-12/2016**
- * Machine Learning Prediction for RNA-chromosome interaction, UTD
-    * Wrote a **Bash script** to collect genomic and epigenomic data from **online resources**
-    *	Built a pipeline in Bash and python to preprocess collected data
-    *	Coded a **Random shuffle** program to generate negative training data set
-    *	Applied **SVM**(support vector machine) on collected data set to generate a model
-* DNA Sequencing Analysis of Brg1 in Cancer Cell, UTD
-    *	Built pipelines for data process and ChIP-seq analysis using Linux bash shell
-    *	Implemented a protein binding motif scan and enrichment analysis program in R
-    *	Analyzed and Visualized data in **R** and **Python**
-    * **Article publication**: [Shi, X., et al. "SMARCA4/Brg1 coordinates genetic and epigenetic networks underlying Shh-type medulloblastoma development." Oncogene (2016)](https://www.nature.com/articles/onc2016108).
-
-**Teaching Assistant, Biology Department, UTD 	01/2014-12/2016**
-  *	Assisted instructors to organize student experiment and lecture
-  *	Communicated with students to help them understand materials and answered their questions
 
 
 Academic Projects

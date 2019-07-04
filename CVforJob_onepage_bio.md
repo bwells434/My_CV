@@ -1,0 +1,89 @@
+@import "CV.css"
+
+Jiawei Gu
+============
+LinkedIn:   https://www.linkedin.com/in/jiawei-gu/ | GitHub: https://github.com/jiawku
+Cell: (801)-637-­4021 | Email:     jiawku17@gmail.com | Salt Lake City, UT
+
+Summary
+------
+I am bioinformatician with **fours years of experience** in academic and industry. I obtained a **MS in biology** and a **MS in computer science** from University of Texas at Dallas. It gives me advantage in combining biology knowledge with programming skills in data engineering and analysis.
+
+Work Experience
+----------
+**Bioinformatics Analyst, Navican Genomics, Inc. Salt Lake City, 08/2018-Present**
+The main product of Navican is TheraMap™, which is a precision therapy solution for solid tumor patient. Navican sequences the tumor specimen from patients using **Illumina TruSight™ Tumor 170**, selects clinical significant variants and provides therapy advices for patient.
+I work corporately with Lab Operation Team, Variant Scientist Team, DevOps Team ,and R&D team in Navcian Genomics. My job mostly consisted of three parts:
+ * ***Production & Automation***
+    * Daily clinical control sequencing quality assurance.
+    * Implemented and improved the **Tumor Mutation Burden(TMB)** calculation algorithm within the bioinformatics team inspired by 
+    * Built an **automated pipeline** for clinical control assurance in **python**. It connected multiple **cloud service platforms**(Philips IntelliSpace Genomics Medicine, SalesForce, SeraCare IQ, Slack, and Amazon AWS) via **API**.
+    * Created an **Illumina BaseSpace Native APP** for sequencing quality control using **Docker**.  
+ * ***Data Engineering***
+    * Created tools to query and clean data from **cloud service platforms** (Philips IntelliSpace Genomics Medicine, SalesForce, Clarity LIMS) via **API** for ETL and R&D.
+    * Designed a Bioinformatics **Variant Database** to store clinical mutations.
+ * ***Data Analysis***
+    * Implemented and run validation workflows for Illumina TruSight™ Tumor 170 Sequencing Assay.
+    * Designed statistical tests for lab operation quality metrics.
+    * Help with other ad-hoc data analysis requests.
+
+
+**Research Assistant, Biology Department, UTD 	01/2014-12/2016**
+
+I focused on the research of Next-Generation Sequencing analysis, especially on ChIP-seq, RNA-seq, and ChIA-PET Seq result analysis, and using machine learning tools to analysze and predict from data.
+
+* Machine Learning Prediction for RNA-chromosome interaction
+   * Collect **genomic and epigenomic data** from online resources by a self coded **web crawler**.
+   * Cleaned data and used Random Shuffle to generate more negative data points.
+   * Applied **Support Vector Machine**() to generate a model
+
+* DNA Sequencing Analysis of Brg1 in Cancer Cell, UTD
+   *	Built pipelines for data process and ChIP-seq analysis using Linux bash shell
+   *	Implemented a protein binding motif scan and enrichment analysis program in R
+   *	Analyzed and Visualized data in **R** and **Python**
+   * **Article publication**: [Shi, X., et al. "SMARCA4/Brg1 coordinates genetic and epigenetic networks underlying Shh-type medulloblastoma development." Oncogene (2016)](https://www.nature.com/articles/onc2016108).
+
+Skills
+--------
+Programming languages
+:   Python, Java, JavaScript, R, SAS, SQL
+
+Machine Learning & Statistical model
+:   Support Vector Machine (SVM), Random Forest, Deep Learning, Hidden Markov Model (HMM), Expectation Maximization(EM)
+
+NGS(Next Generation Sequencing) Analysis
+:   ChIP-Seq Analysis ,RNA-Seq Analysis, Gene Ontology Enrichment Analysis,ChIA-PET Analysis, Motif Analysis
+
+Frameworks & Tools
+:   BigData:   Apache Spark, Apache Hadoop
+    Web:   MEAN stack(MongoDB, Express JS, Angular JS, Node.js), Java Spring
+    Deep Learning:   TensorFlow, Keras
+    Containerization: Docker, Kubernetes
+
+Education
+---------
+
+01/2017-05/2018
+: **MS, Computer Science**; University of Texas at Dallas(UTD); **3.91/4**
+
+08/2013-12/2016
+: **MS, Bioinformatics**; University of Texas at Dallas(UTD); **3.73/4**
+Performed two and a half years (*05/2014 -12/2016*) of studies in pursuit of Ph.D.
+
+Certification
+--------
+
+*   [SAS Certified Base & Advanced Programmer for SAS 9](https://www.youracclaim.com/badges/29649285-43db-4ca4-89c6-5e325a059829/public_url)
+*   [edX Verified Certificate for Big Data Analysis with Apache Spark](https://courses.edx.org/certificates/user/10309856/course/course-v1:BerkeleyX+CS110x+2T2016)
+*   [Coursera Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/5VL96NJ4AGXJ)
+
+Side Project
+----------
+[Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification), Kaggle.com 	05/2018
+:   * A Kaggle machine learning competition Project
+    * Design and built a **convolutional neural network(CNN)** in **keras** to determine the breed of a dog in an image
+    * Applied a **integrated model** of Xception and InceptionV3 to extract bottleneck features from image
+    * Used three fully connected layers with **drop out** and **batch normalization** to get predicted probabilities  
+    * Used **Adam** optimilzation algorithm to train the final model with **cross entropy** as loss function  
+    * Get the final validation **accuracy of 99.76%**, rank 102 out of 1286 teams**
+-------------------    -------------------
