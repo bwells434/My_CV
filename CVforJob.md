@@ -3,12 +3,12 @@
 Jiawei Gu
 ============
 LinkedIn:   https://www.linkedin.com/in/jiawei-gu/ | GitHub: https://github.com/jiawku
-Cell: (801)-637-­4021 | Email:     jiawku17@gmail.com | Salt Lake City, UT
+
+Cell: *(469)-412-4376* | Email: *jiawku17@gmail.com* | Salt Lake City, UT
 --- ---
 
 Education
 ---------
-
 01/2017-05/2018
 : **MS, Computer Science**; University of Texas at Dallas(UTD); **3.91/4**
 
@@ -17,14 +17,14 @@ Education
 
 Work Experience
 ----------
-**Bioinformatic Analyst, Navcian Genomics, Inc. Salt Lake City, 08/2018-Present**
+**Bioinformatic Analyst, Navcian Genomics, Inc. Salt Lake City, 08/2018-Current**
 
 I work corporately with Lab Operation Team, Variant Scientist Team, DevOps Team and R&D team in Navcian Genomics. My job mostly consisted of three parts:
  * ***Production & Automation***
     * Daily clinical control sequencing quality assurance.
-    * Involved in design and implementation of the **Tumor Mutation Burden(TMB)** calculation algorithm.
-    * Build a **automatic pipeline** for clinical control assurance in **python**. It connected multiple **cloud service platforms**(Philips IntelliSpace Genomics Medicine, SalesForce, SeraCare IQ, Slack and Amazon AWS) via **API**.
-    * Containerized a sequencing quality control script in **Docker**, and create a warper of it to make a **Illumina BaseSpace Native APP**.  
+    * Designed and implemented of the **Tumor Mutation Burden(TMB)** calculation algorithm.
+    * Build a **automatic pipeline** for clinical control assurance in **python**. It connected multiple **cloud service platforms**(Philips IntelliSpace Genomics Medicine, SalesForce, SeraCare IQ, Slack and Amazon AWS) via **API call**.
+    * Containerized a sequencing quality control script in **Docker**, and create a wrapper of it to make a **Illumina BaseSpace Native APP**.  
  * ***Data Engineering***
     * Created tools to query and clean data from **cloud service platforms** (Philips IntelliSpace Genomics Medicine, SalesForce, Clarity LIMS) via **API** for ETL and R&D.
     * Designed a Bioinformatic **Variant Database** to store clinical mutations.
@@ -77,7 +77,7 @@ Proficient Skills
 --------
 
 Programming languages
-:   Python, Java, JavaScript, C++, R, SAS, SQL, PHP, Bash
+:   Python, Java, JavaScript, C++, R, SAS, SQL, PHP, Shell Script
 
 Big data framework
 :   Apache Spark, Apache Hadoop
@@ -95,13 +95,16 @@ Bioinformatic Platform
 : Illumina BaseSpace, Illumina Clarity LIMS, SeraCare IQ, Philips IntelliSpace Genomics Medicine
 
 Cloud Service
-: Amazon AWS, SalesForce
+: **Amazon AWS** *(Certified)*, SalesForce
 
 
 Certifications
+:   **[AWS Certified Solutions Architect - Associate](https://aw.certmetrics.com/amazon/public/verification.aspx)**
+  : Credential ID: *6WQVVZSKE24EQLK9*
+:   [Coursera Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/5VL96NJ4AGXJ)
 :   [SAS Certified Base & Advanced Programmer for SAS 9](https://www.youracclaim.com/badges/29649285-43db-4ca4-89c6-5e325a059829/public_url)
 :   [edX Verified Certificate for Big Data Analysis with Apache Spark](https://courses.edx.org/certificates/user/10309856/course/course-v1:BerkeleyX+CS110x+2T2016)
-:   [Coursera Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/5VL96NJ4AGXJ)
+
 
 
 

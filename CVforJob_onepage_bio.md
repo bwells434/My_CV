@@ -2,21 +2,21 @@
 
 Jiawei Gu
 ============
-LinkedIn:   https://www.linkedin.com/in/jiawei-gu/ | GitHub: https://github.com/jiawku
+LinkedIn:   https://www.linkedin.com/in/jiawei-gu/ | GitHub: https://github.com/jiawku<br/>
 Cell: (801)-637-­4021 | Email:     jiawku17@gmail.com | Salt Lake City, UT
 
 Summary
 ------
-I am bioinformatician with **fours years of experience** in academic and industry. I obtained a **MS in biology** and a **MS in computer science** from University of Texas at Dallas. It gives me advantage in combining biology knowledge with programming skills in data engineering and analysis.
+I am a fours years experienced bioinformatician in academic and industry. I obtained a **MS in biology** and a **MS in computer science** from University of Texas at Dallas. It gives me advantage in combining biology knowledge with programming skills in data engineering and analysis.
+With a Certificate from **Amazon Web Service** , I can boost your development and production in the era of cloud.
 
 Work Experience
 ----------
 **Bioinformatics Analyst, Navican Genomics, Inc. Salt Lake City, 08/2018-Present**
-The main product of Navican is TheraMap™, which is a precision therapy solution for solid tumor patient. Navican sequences the tumor specimen from patients using **Illumina TruSight™ Tumor 170**, selects clinical significant variants and provides therapy advices for patient.
-I work corporately with Lab Operation Team, Variant Scientist Team, DevOps Team ,and R&D team in Navcian Genomics. My job mostly consisted of three parts:
+
  * ***Production & Automation***
     * Daily clinical control sequencing quality assurance.
-    * Implemented and improved the **Tumor Mutation Burden(TMB)** calculation algorithm within the bioinformatics team inspired by 
+    * Implemented and improved the **Tumor Mutation Burden(TMB)** calculation algorithm within the bioinformatics team inspired by
     * Built an **automated pipeline** for clinical control assurance in **python**. It connected multiple **cloud service platforms**(Philips IntelliSpace Genomics Medicine, SalesForce, SeraCare IQ, Slack, and Amazon AWS) via **API**.
     * Created an **Illumina BaseSpace Native APP** for sequencing quality control using **Docker**.  
  * ***Data Engineering***
@@ -52,13 +52,22 @@ Machine Learning & Statistical model
 :   Support Vector Machine (SVM), Random Forest, Deep Learning, Hidden Markov Model (HMM), Expectation Maximization(EM)
 
 NGS(Next Generation Sequencing) Analysis
-:   ChIP-Seq Analysis ,RNA-Seq Analysis, Gene Ontology Enrichment Analysis,ChIA-PET Analysis, Motif Analysis
+:   ChIP-Seq Analysis ,RNA-Seq Analysis, GATK toolkit ,Gene Ontology Enrichment Analysis, ChIA-PET Analysis, Motif Analysis
 
 Frameworks & Tools
-:   BigData:   Apache Spark, Apache Hadoop
-    Web:   MEAN stack(MongoDB, Express JS, Angular JS, Node.js), Java Spring
-    Deep Learning:   TensorFlow, Keras
-    Containerization: Docker, Kubernetes
+:   - BigData:   Apache Spark, Apache Hadoop
+    - Web:   MEAN stack(MongoDB, Express JS, Angular JS, Node.js), Java Spring
+    - Deep Learning:   TensorFlow, Keras
+    - Containerization: Docker, Kubernetes
+    - Cloud Service: **Amazon Web Service**(*certified*)
+
+###Certification
+- **[AWS Certified Solutions Architect - Associate](https://aw.certmetrics.com/amazon/public/verification.aspx)**
+  : Credential ID: *6WQVVZSKE24EQLK9*
+- [Coursera Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/5VL96NJ4AGXJ)
+- [SAS Certified Base & Advanced Programmer for SAS 9](https://www.youracclaim.com/badges/29649285-43db-4ca4-89c6-5e325a059829/public_url)
+- [edX Verified Certificate for Big Data Analysis with Apache Spark](https://courses.edx.org/certificates/user/10309856/course/course-v1:BerkeleyX+CS110x+2T2016)
+
 
 Education
 ---------
@@ -70,12 +79,7 @@ Education
 : **MS, Bioinformatics**; University of Texas at Dallas(UTD); **3.73/4**
 Performed two and a half years (*05/2014 -12/2016*) of studies in pursuit of Ph.D.
 
-Certification
---------
 
-*   [SAS Certified Base & Advanced Programmer for SAS 9](https://www.youracclaim.com/badges/29649285-43db-4ca4-89c6-5e325a059829/public_url)
-*   [edX Verified Certificate for Big Data Analysis with Apache Spark](https://courses.edx.org/certificates/user/10309856/course/course-v1:BerkeleyX+CS110x+2T2016)
-*   [Coursera Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/5VL96NJ4AGXJ)
 
 Side Project
 ----------
